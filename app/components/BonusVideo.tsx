@@ -24,7 +24,7 @@ const bonusVideoServices: Service[] = [
   },
   { 
     name: "Montage Vidéo", 
-    price: 25000, 
+    price: 27000, 
     duration: "1 minute",
     description: "Montage vidéo dynamique et professionnel",
     details: "Découpage des séquences\nAjout musique et effets sonores\nTransitions dynamiques\nTexte simple\nExport HD\nLivraison sous 3 jours",
