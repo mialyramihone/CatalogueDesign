@@ -23,6 +23,14 @@ const bonusVideoServices: Service[] = [
     icon: <Video size={40} strokeWidth={1.5} />
   },
   { 
+    name: "Montage Vidéo", 
+    price: 25000, 
+    duration: "1 minute",
+    description: "Montage vidéo dynamique et professionnel",
+    details: "Découpage des séquences\nAjout musique et effets sonores\nTransitions dynamiques\nTexte simple\nExport HD\nLivraison sous 3 jours",
+    icon: <Monitor size={40} strokeWidth={1.5} />
+  },
+  { 
     name: "Pack Stream Starter", 
     price: 85000, 
     duration: "Pack complet",
