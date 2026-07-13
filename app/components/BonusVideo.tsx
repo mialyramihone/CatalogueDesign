@@ -17,7 +17,7 @@ const bonusVideoServices: Service[] = [
   { 
     name: "Publicité Video", 
     price: 15000, 
-    duration: "30 minutes",
+    duration: "30 secondes",
     description: "Vidéo publicitaire professionnelle",
     details: "Montage vidéo\nHabillage graphique\nMusique libres de droits\nTransition dynamiques\nExport HD\nLivraison sous 5 jours",
     icon: <Video size={40} strokeWidth={1.5} />
