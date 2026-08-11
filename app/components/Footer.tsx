@@ -43,7 +43,7 @@ export default function Footer() {
             <ul className="footer-contact">
               <li>
                 <Mail size={16} />
-                <a href="mailto:contact@ramihonemialy.com?subject=Demande%20de%20renseignement">
+                <a href="mailto:contact@ramihonemialy@gmail.com?subject=Demande%20de%20renseignement">
                   ramihonemialy.com
                 </a>
               </li>
@@ -55,7 +55,7 @@ export default function Footer() {
               </li>
               <li>
                 <MapPin size={16} />
-                <span>Antananarivo, Madagascar</span>
+                <span>301 Fianarantsoa, Madagascar</span>
               </li>
             </ul>
           </div>
