@@ -44,7 +44,7 @@ export default function Footer() {
               <li>
                 <Mail size={16} />
                 <a href="mailto:contact@ramihonemialy@gmail.com?subject=Demande%20de%20renseignement">
-                  ramihonemialy.com
+                  ramihonemialyy@gmail.com
                 </a>
               </li>
               <li>
